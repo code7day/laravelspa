@@ -1,12 +1,6 @@
 # Laravel-Vue SPA 
 
-<a href="https://github.com/jjdelarosa/laravelspa"><img src="https://github.com/jjdelarosa/laravelspa/laravel-vue-spa.svg?branch=master" alt="Build Status"></a>
-
 > A Laravel-Vue SPA starter project template.
-
-<p align="center">
-<img src="https://i.imgur.com/NHFTsGt.png">
-</p>
 
 ## Features
 
