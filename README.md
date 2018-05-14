@@ -1,21 +1,22 @@
 # Laravel-Vue SPA 
 
-<a href="https://travis-ci.org/cretueusebiu/laravel-vue-spa"><img src="https://travis-ci.org/cretueusebiu/laravel-vue-spa.svg?branch=master" alt="Build Status"></a>
-<a href="https://packagist.org/packages/cretueusebiu/laravel-vue-spa"><img src="https://poser.pugx.org/cretueusebiu/laravel-vue-spa/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/cretueusebiu/laravel-vue-spa"><img src="https://poser.pugx.org/cretueusebiu/laravel-vue-spa/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://github.com/jjdelarosa/laravelspa"><img src="https://github.com/jjdelarosa/laravelspa/laravel-vue-spa.svg?branch=master" alt="Build Status"></a>
 
 > A Laravel-Vue SPA starter project template.
+
+<p align="center">
+<img src="https://i.imgur.com/NHFTsGt.png">
+</p>
 
 ## Features
 
 - Laravel 5.6 
 - Vue + VueRouter + Vuex + VueI18n + ESlint
 - Pages with dynamic import and custom layouts
-- Login
+- Login, register and password reset
 - Authentication with JWT
 - Socialite integration
 - Bootstrap 4 + Font Awesome 5
-- CoreUI
 
 ## Installation
 
@@ -43,3 +44,6 @@ npm run hot
 npm run production
 ```
 
+## Changelog
+
+Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
