@@ -1,0 +1,60 @@
+$facebook:                            #3b5998 !default;
+$twitter:                             #00aced !default;
+$linkedin:                            #4875b4 !default;
+$google-plus:                         #d34836 !default;
+$flickr:                              #ff0084 !default;
+$tumblr:                              #32506d !default;
+$xing:                                #026466 !default;
+$github:                              #4183c4 !default;
+$html5:                               #e34f26 !default;
+$openid:                              #f78c40 !default;
+$stack-overflow:                      #fe7a15 !default;
+$red:                                 #b00 !default;
+$css3:                                #0170ba !default;
+$dribbble:                            #ea4c89 !default;
+$google-plus:                         #bb4b39 !default;
+$instagram:                           #517fa4 !default;
+$pinterest:                           #cb2027 !default;
+$vk:                                  #45668e !default;
+$yahoo:                               #400191 !default;
+$behance:                             #1769ff !default;
+$dropbox:                             #007ee5 !default;
+$reddit:                              #ff4500 !default;
+$spotify:                             #7ab800 !default;
+$vine:                                #00bf8f !default;
+$foursquare:                          #1073af !default;
+$vimeo:                               #aad450 !default;
+
+.app-header.navbar .navbar-brand{
+    background-size: 126px auto;
+}
+
+.app-login{
+
+    background-size: cover;
+    background-image: url('/static/img/bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: auto auto;
+    background-color: rgba(0, 0, 0, 0);
+    height: 100%;
+}
+
+.logo{
+    height: 22%;
+    margin-top: -10%;
+}
+.logo img{
+    height: 75%;
+}
+
+.main-app{
+    padding-top: 4%;
+
+
+}
+
